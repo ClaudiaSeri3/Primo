@@ -28,12 +28,14 @@ function stampaPari(n) {
     } while (i <= n);
 }
 
-//N°4
+//N°4 
+//saluta 
 function saluta(nome){
     return "Ciao,"+nome;
 }
 
 //N°5
+//moltiplicazione
 function moltiplica(a,b){
     return a*b
 }
