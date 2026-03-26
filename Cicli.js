@@ -28,7 +28,10 @@ function stampaPari(n) {
     } while (i <= n);
 }
 
-//N°4 
+function somma (a,b){
+    return a+b;
+}
+
 //saluta 
 function saluta(nome){
     return "Ciao,"+nome;
